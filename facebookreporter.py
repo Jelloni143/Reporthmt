@@ -47,14 +47,14 @@ print(Fore.BLUE + slaw3)
 #00000000000000000000000000000000000000000000000000   functionakan    0000000000000000000000000000000000000000000000000000000000
 
 
-fb =input(Fore.YELLOW + '[+] Please inter the facebook URL : ')
+fb =input(Fore.YELLOW + '[+] https://www.facebook.com/share/ETC3icYXeMjLPP1K/?mibextid=qi2Omg: ')
 time.sleep(2)
 
 os.system("clear")
 
 print("report automation is startig.....")
 
-url = 'https://m.facebook.com/help/contact/209046679279097'
+url = 'https://www.facebook.com/indraj.gujar.969?mibextid=qi2Omg&rdid=ptbSVX6cocx36vPK&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FETC3icYXeMjLPP1K%2F%3Fmibextid%3Dqi2Omg'
 
 data = {
 'crt-url' : fb,
